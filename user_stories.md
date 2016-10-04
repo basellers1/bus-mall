@@ -12,7 +12,7 @@ As a developer, I want to use descriptive console.log() throughout my code to he
 
 As a developer, I want to checkout many branches and ACP often to save my work properly and have an accurate account of my project development.
 
-As a developer, I want to have
+As a developer, I want to make a running total of clicks.
 
 As a developer, I want to have a results button after 25 clicks which will produce a list of the results.
 
@@ -20,8 +20,4 @@ As a developer, I want to use CSS to creatively and tastefully style and layout 
 
 As a focus group participant, I want to have a clear and fun site to look at so I will want to click through to the end.
 
-As a focus group participant, I want to
-
-As a focus group participant, I want to
-
-As a focus group participant, I want to
+As a focus group participant, I want to have a clear and concise survey that is fast.
